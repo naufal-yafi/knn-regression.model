@@ -1,0 +1,11 @@
+/*
+!.gitignore
+
+!README.md
+!required_libraries.txt
+test.ipynb
+test*.ipynb
+test-*.ipynb
+!*.ipynb
+!**/*.ipynb
+!/resource
